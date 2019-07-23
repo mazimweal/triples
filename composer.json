@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.1",
+        "illuminate/support": "4.2.18",
         "semsol/arc2" : "dev-master",
         "easyrdf/easyrdf" : "0.9.1"
     },
